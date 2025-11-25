@@ -4,6 +4,8 @@
 
 Página de vendas para uma loja de móveis antigos desenvolvida durante o curso técnico da Proz Educação.
 
+🔗 **[Acesse o projeto online]( https://jeanvi12.github.io/site-venda-de-moveis/)**
+
 ## 💻 Tecnologias Utilizadas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/> **HTML5** - Estruturação semântica da página
